@@ -50,3 +50,8 @@ The `Supermarket Customers` database consists of 29 columns. These columns inclu
 *	**NumCatalogPurchases**: Number of purchases made using a catalog
 *	**NumStorePurchases**: Number of purchases made directly in stores
 *	**NumWebVisitsMonth**: Number of visits to the company’s website in the last month
+
+--------------------------------------------------------------------------------------
+
+## **TABLEAU STORY**
+This is the link to tableau story : https://bit.ly/IndoMarketStory
